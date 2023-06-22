@@ -157,10 +157,11 @@ a {
 	display: none;
 	justify-content: center;
     align-items: center;
-    width: 48px;
+    width: 30px;
     height: 48px;
 	font-size: 48px;
     line-height: 0;
+	transform: translateX(10px) translateY(-5px);
 	cursor: pointer;
 }
 
@@ -638,19 +639,3 @@ a {
 	}
 }
 /* ↑↑↑ 425px ↑↑↑ */
-
-@media (max-width: 375px) {
-	/* ↓ HEADER ↓ */
-	
-
-	/* ↑ MOBILE MENU ↑ */
-}
-/* ↑↑↑ 375px ↑↑↑ */
-
-@media (max-width: 320px) {
-	/* ↓ HEADER ↓ */
-	
-	
-	/* ↑ FOOTER ↑ */
-}
-/* ↑↑↑ 320px ↑↑↑ */
