@@ -556,7 +556,7 @@ a {
 }
 /* ↑↑↑ 540px ↑↑↑ */
 
-@media (max-width: 425px) {
+@media (max-width: 430px) {
 	.header__menu .header__menu-list {
 		gap: 50px;
 	}
@@ -638,4 +638,4 @@ a {
 		border-bottom: unset;
 	}
 }
-/* ↑↑↑ 425px ↑↑↑ */
+/* ↑↑↑ 430px ↑↑↑ */
